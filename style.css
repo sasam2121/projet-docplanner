@@ -249,7 +249,6 @@ li{
     color:#747474;
 }
 .section4{
-    background-color: aqua;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -279,8 +278,11 @@ li{
     display: flex;
     justify-content: center;
     flex-direction: column;
+
 }
 .div8-1{
+color: #747474;
+font-size: small;
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -289,7 +291,7 @@ height: 50px;
 padding:5px;
 }
 .button{
-    background-color: #2a18ea;
+    background-color: #3d83df;
     border: none;
     color: white;
     padding: 10px 10px;
@@ -298,4 +300,29 @@ padding:5px;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 18px;
+}
+.div9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:10px;
+    width: 55%;
+    margin-top: 60px;
+}
+.div10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 75%;
+    margin-left: 70px;
+    margin-top: 15%;
+
+}
+.h1-2{
+    display: flex;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    margin-bottom: 12px;
+    
 }
