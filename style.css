@@ -145,7 +145,7 @@ li{
     margin-top: 40px;
     width: 35%;
     height: 25%;
-    margin-right: 25%;
+    margin-right: 150px;
 }
 
 .p8{
@@ -173,51 +173,129 @@ li{
     
 }
 .div6-1{
-    background-color: #ff0303;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
     width: 300px;
     padding: 10px;
+    margin-top: 20px;
 }
 .div6-2{
     display: flex;
-    background-color: #664a26;
+    background-color: #ffffff;
     flex-direction: column;  
     height: 220px; 
+    align-items: center;
 }
 .div6-3{
     display: flex;
-    background-color: #a48761;
+    background-color: #ffffff;
     flex-direction: column;  
     height: 220px; 
+    align-items: center;
+
 }
 .div6-4{
-    background-color: #ff0303;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 20px;
     width: 300px;
     padding: 10px;
 }
 .div6-5{
-    isplay: flex;
-    background-color: #ff9100;
+    display: flex;
+    background-color: #ffffff;
     flex-direction: column;  
     height: 220px; 
+    align-items: center;
 }
 .div6-6{
     display: flex;
-    background-color: #865514;
+    background-color: #ffffff;
     flex-direction: column;  
     height: 220px; 
+    align-items: center;
 }
 .p10{
-    background-color: #3d83df;
+    color: #00b39b;
     font-size:20px;
 }
 .p11{
-    background-color: #ebf1f8;
-    margin-top: 12px;
+    margin-top: 10%;
     display: flex;
+    font-size: 20px;
+    color:#747474;
+
+}
+.p12{
+    color: #00b39b;
+    font-size:20px;
+}
+.p13{
+    margin-top: 10%;
+    display: flex;
+    font-size: 20px;
+    color:#747474;
+
+}
+.p14{
+    color: #00b39b;
+    font-size:20px;
+}
+.p15{
+    margin-top: 10%;
+    display: flex;
+    font-size: 20px;
+    color:#747474;
+}
+.section4{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.div7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40px;
+    width: 30%;
+}
+.p16{
+    color: #00b39b;
+    font-size: 35px;
+    display: flex;
+}
+.h1{
+    margin-top: 15px;
+    font-family: serif;
+    font-weight: 100;
+    font-size: 15px;
+    color:#747474;
+}
+.div8{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.div8-1{
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-direction: row;
+height: 50px;
+padding:5px;
+}
+.button{
+    background-color: #2a18ea;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 18px;
 }
